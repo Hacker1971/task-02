@@ -1,3 +1,4 @@
+//Write a code on how to calculate the number of vowels and consonants in a string?(Use Javascript only)
 function countVowelsAndConsonants(str) {
   const vowels = "aeiouAEIOU";
   let vowelCount = 0;
